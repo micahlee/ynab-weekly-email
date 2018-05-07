@@ -1,0 +1,15 @@
+{
+  "name": "ynab-weekly-email",
+  "version": "1.0.0",
+  "description": "Weekly budget email from YNAB",
+  "main": "index.js",
+  "author": "Micah Lee <micah@micahlee.com>",
+  "license": "MIT",
+  "private": true,
+  "dependencies": {
+    "aws-sdk": "^2.233.1",
+    "esm": "^3.0.29",
+    "nodemailer-promise": "^2.0.0",
+    "ynab": "^0.16.0"
+  }
+}
